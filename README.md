@@ -1,0 +1,1 @@
+This is Humber college Lab1 Program of web programming and design subject where I created three pages and give the links of that pages when we can move 2 pages using this two links in footer sections.
